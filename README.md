@@ -1,4 +1,4 @@
-![](./screenshots/cover.png)
+![](./screenshots/Rubix.png)
 # 🧩 Realistic 3D Rubik’s Cube (Three.js + GSAP)
 
 A **fully interactive 3D Rubik’s Cube** built using **Three.js**, **GSAP**, and vanilla **HTML/CSS**.  
