@@ -77,7 +77,7 @@ just like a real-world Rubik’s Cube!
 
 ## 🧑‍💻 Author
 
-**[Abin Varughese John]**  
+**Abin Varughese John**  
 💻 [GitHub Profile](https://github.com/ABI2006S)  
 📧 5amvibezofficial@gmail.com
 
