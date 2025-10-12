@@ -42,7 +42,7 @@ just like a real-world Rubik’s Cube!
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/3d-rubiks-cube.git
+   git clone https://github.com/ABI2006S/3d-rubiks-cube.git
    cd 3d-rubiks-cube
    
 2. **Run Locally**
